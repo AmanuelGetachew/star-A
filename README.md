@@ -1,0 +1,2 @@
+# star-A
+sample repository 
